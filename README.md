@@ -1,5 +1,5 @@
 # minst
-python解析caffe下lmdb格式的minst数据集
+python解析caffe下lmdb格式的minst数据集,使用OpenCV弹出窗口,显示28x28的手写数字灰度图
 
 ### 依赖库
 pip install lmdb
